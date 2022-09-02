@@ -10,6 +10,7 @@ prgm7a-
 prgm7b-
 prgm8-
 uart-
-dc-
+dc-https://github.com/ayush08-12/mesl/blob/13cc9adde0ffc65e4778336293cc980b16412997/DCMOTER
+
 sm-
 dac-
